@@ -21,20 +21,19 @@ REST API principals - Using HTTP methods
 
 You should have installed at least node version 14.0.
 
-Clone the repository
-
-
+Clone the repository:
+https://github.com/baskarancs15/REST-API-Node-Typescript.git
 
 Install the dependencies within the project directory:
 npm install
 
-Run Server:
+To run Server:
 npm start
 
-Run Test:
+To run Test:
 npm test
 
-Run build:
+To run build:
 npm run build
 
 
