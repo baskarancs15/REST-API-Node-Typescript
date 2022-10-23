@@ -1,7 +1,5 @@
 # REST-API-Node-Typescript
 
-New repository: https://github.com/TomDoesTech/REST-API-Tutorial-Updated
-
 Note: Please import the below link in local postman
 
 https://www.getpostman.com/collections/2c5726321e750df55c81
@@ -23,7 +21,8 @@ REST API principals - Using HTTP methods
 
 You should have installed at least node version 14.0.
 
-Clone the repository into your projects directory:
+Clone the repository
+
 
 
 Install the dependencies within the project directory:
